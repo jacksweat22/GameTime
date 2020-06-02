@@ -12,6 +12,8 @@ class App extends Component {
     user: userService.getUser()
   }
 
+
+  
 render() {
     return (
       <>
